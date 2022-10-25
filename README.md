@@ -1,4 +1,4 @@
-# weather-journal-app
+# Weather-journal-app
 An app that helps the user to know the weather condition at a location using the zip code he provides
 
 ## Table of Contents
